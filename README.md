@@ -21,6 +21,9 @@ Flexbox
 
 Grid
 
+Project URL: 
+[https://emanuelrios92.github.io/aluraplus/]
+
 Feedback and Contributions
 I welcome feedback and suggestions for improvement! If you notice any issues or have ideas to enhance the portfolio, please don't hesitate to create an issue or submit a pull request. Your contributions are greatly appreciated.
 
